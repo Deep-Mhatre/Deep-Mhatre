@@ -18,7 +18,7 @@ Passionate about developing AI-powered applications that solve real-world proble
 # 🚀 About Me
 
 🎓 Final-year **Computer Science (AI & ML)** student  
-🏫 **G.V. Acharya Institute of Engineering**
+🏫 **University of Mumbai**
 
 💡 My focus areas:
 
