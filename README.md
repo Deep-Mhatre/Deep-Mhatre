@@ -198,12 +198,18 @@ A platform that generates complete website layouts and pages from user prompts u
 
 ---
 
-## 🐍 Contribution Snake
+## 🏙️ GitCity — Digital Repo Skyline
 
 <p align="center">
+<img src="https://gitcity.natrajx.in/api/svg?username=Deep-Mhatre" alt="GitCity - Deep Mhatre"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/Deep-Mhatre/Deep-Mhatre/output/github-contribution-grid-snake.svg"/>
+---
 
+## 🌐 3D Contribution Graph
+
+<p align="center">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph - Deep Mhatre"/>
 </p>
 
 ---
