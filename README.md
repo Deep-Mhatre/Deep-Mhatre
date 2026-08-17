@@ -198,18 +198,10 @@ A platform that generates complete website layouts and pages from user prompts u
 
 ---
 
-## 🏙️ GitCity — Digital Repo Skyline
+## 🚀 Space Shooter — Contribution Blaster
 
 <p align="center">
-<img src="https://gitcity.natrajx.in/api/svg?username=Deep-Mhatre" alt="GitCity - Deep Mhatre"/>
-</p>
-
----
-
-## 🌐 3D Contribution Graph
-
-<p align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph - Deep Mhatre"/>
+<img src="https://raw.githubusercontent.com/Deep-Mhatre/Deep-Mhatre/main/assets/space-shooter.gif" alt="Space Shooter Contribution Game - Deep Mhatre"/>
 </p>
 
 ---
