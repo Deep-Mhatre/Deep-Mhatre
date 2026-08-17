@@ -2,11 +2,11 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%">
 
 <h1 align="center">Hi 👋, I'm Deep Mhatre</h1>
-<h3 align="center">AI Engineer • Data Enthusiast • Full Stack Developer</h3>
+<h3 align="center">Data Analyst • Full Stack Developer • AI Engineer</h3>
 
 <p align="center">
-I build intelligent systems combining <b>Artificial Intelligence, Data Engineering, and Scalable Web Technologies</b>.  
-Passionate about developing AI-powered applications that solve real-world problems.
+I build <b>data-driven applications, interactive analytics dashboards, and intelligent automation systems</b>.
+Currently working as a Full Stack Developer & Automation Developer at <b>AI Marketing Partners (Australia)</b>.
 </p>
 
 <p align="center">
@@ -17,18 +17,19 @@ Passionate about developing AI-powered applications that solve real-world proble
 
 # 🚀 About Me
 
-🎓 Final-year **Computer Science (AI & ML)** student  
-🏫 **University of Mumbai**
+🎓 **B.E. in Computer Science (AI & ML)** — University of Mumbai (2026)  
+💼 **Currently Working** at AI Marketing Partners (Remote, Australia)  
+📍 Based in **Navi Mumbai, India**
 
 💡 My focus areas:
 
-- Artificial Intelligence  
-- Machine Learning  
-- Data Analytics  
-- Full Stack Development  
-- NLP & LLM Applications  
+- Data Analytics & Business Intelligence  
+- SQL & Database Engineering  
+- Power BI Dashboards & Data Visualization  
+- Full Stack Web Development  
+- AI & Workflow Automation  
 
-⚡ I enjoy building **end-to-end AI systems** from **data pipelines → ML models → production web applications**.
+⚡ I enjoy building **end-to-end data solutions** from **data extraction → analysis → interactive dashboards → production applications**.
 
 ---
 
@@ -36,20 +37,18 @@ Passionate about developing AI-powered applications that solve real-world proble
 
 ### Programming
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,cpp" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
 </p>
 
-### AI / Machine Learning
+### Data Analytics & Visualization
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-**Concepts**
-
-- Natural Language Processing (NLP)  
-- Large Language Models (LLMs)  
-- Retrieval-Augmented Generation (RAG)  
-- Generative AI  
+- **Power BI** — Interactive Dashboards, KPI Cards, Slicers, Drill-through Reports  
+- **Excel** — Pivot Tables, Power Query, XLOOKUP, Charts  
+- **Python** — Pandas, NumPy, Matplotlib, Scikit-Learn  
+- **SQL** — JOINs, CTEs, Window Functions, Aggregations  
 
 ---
 
@@ -62,21 +61,19 @@ Passionate about developing AI-powered applications that solve real-world proble
 
 ### Databases & Data
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
 </p>
 
-**Data Skills**
-
-- SQL  
-- Data Analysis  
-- Data Processing  
-- Data-driven Applications  
+- PostgreSQL, MySQL, MongoDB  
+- Drizzle ORM, Prisma ORM, SQLAlchemy  
+- Data Warehousing, Flat File Processing (CSV, JSON)  
+- Row-Level Security (RLS) & Data Governance  
 
 ---
 
 ### Cloud & DevOps
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" />
 </p>
 
 ---
@@ -89,6 +86,81 @@ Passionate about developing AI-powered applications that solve real-world proble
 ---
 
 # 🚀 Featured Projects
+
+---
+
+## 📓 CodeBook — Digital Coding Notebook Platform
+
+**Description**  
+A Notion-style coding notebook platform enabling users to write rich notes and execute Python code in real-time within secure Docker sandboxes. Supports 12+ data science libraries.
+
+**Tech Stack**  
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Docker` `FastAPI` `Drizzle ORM`
+
+**Key Features**
+
+- Real-time Python execution in isolated Docker containers  
+- Row-Level Security (RLS) for multi-tenant data governance  
+- Monaco Code Editor + Tiptap block editor  
+- Full-text search and hierarchical workspace (Notebooks → Topics → Pages)  
+- Supports Pandas, NumPy, Matplotlib, Polars, SciPy, OpenCV  
+
+🔗 [Live Demo](https://codebook-silk.vercel.app/) | [Repository](https://github.com/Deep-Mhatre/codebook)
+
+---
+
+## 📊 InvestIQ — Mutual Fund Screening & Analytics Platform
+
+**Description**  
+A data-driven financial analytics platform that processes 2,500+ mutual fund schemes to evaluate performance, risk, and return patterns with interactive Power BI dashboards.
+
+**Tech Stack**  
+`React` `FastAPI` `PostgreSQL` `Power BI` `SQL` `Python`
+
+**Key Features**
+
+- Quantitative scoring model using CAGR, expense ratio, volatility, and risk metrics  
+- Interactive Power BI dashboards for fund comparison and KPI monitoring  
+- Custom watchlists and analytics-driven investment decision support  
+- Optimized SQL queries for real-time data access  
+
+🔗 [Live Demo](https://invest-iq-ruby.vercel.app/) | [Repository](https://github.com/Deep-Mhatre/InvestIQ)
+
+---
+
+## 📈 HR Analytics Dashboard
+
+**Description**  
+An interactive HR analytics dashboard built with Power BI to analyze employee attrition, workforce demographics, and department-wise trends.
+
+**Tech Stack**  
+`Power BI` `Excel` `SQL`
+
+**Key Features**
+
+- KPI cards, slicers, and drill-through reports  
+- Employee attrition and workforce analytics  
+- Automated HR KPI reporting  
+
+🔗 [Repository](https://github.com/Deep-Mhatre/hr_analytics_dasboard)
+
+---
+
+## 🍕 Zomato Insights — SQL Data Analytics
+
+**Description**  
+SQL-based analysis on restaurant, customer, and order datasets to identify business trends and generate actionable insights.
+
+**Tech Stack**  
+`Python` `SQL` `PostgreSQL` `Streamlit`
+
+**Key Features**
+
+- Advanced SQL using JOINs, CTEs, Window Functions, Aggregations  
+- Customer purchasing behavior and restaurant performance analysis  
+- Interactive Streamlit dashboard for data exploration  
+
+🔗 [Live Demo](https://deep-mhatre-zomato-insights-app-toynan.streamlit.app/) | [Repository](https://github.com/Deep-Mhatre/zomato-insights)
 
 ---
 
@@ -105,70 +177,8 @@ A platform that generates complete website layouts and pages from user prompts u
 - AI-powered website generation from prompts  
 - Dynamic page creation  
 - Scalable frontend architecture  
-- Modern responsive UI  
 
-🔗 Repository  
-https://github.com/Deep-Mhatre/AetherAI
-
----
-
-## 🤖 Margadarshak — AI Career Mentor
-
-**Description**  
-An AI-powered career guidance platform that uses LLMs and Retrieval-Augmented Generation to recommend career paths based on user skills and interests.
-
-**Tech Stack**  
-`React` `Node.js` `LangChain` `LLM` `RAG`
-
-**Key Features**
-
-- Personalized career recommendations  
-- Context-aware AI responses  
-- Skill analysis and career suggestions  
-- Intelligent document retrieval  
-
-🔗 Repository  
-https://github.com/Deep-Mhatre/Margadarshak
-
----
-
-## 📰 NewsNudge — AI News Summarizer & Analyzer
-
-**Description**  
-An AI-powered news intelligence system that analyzes and summarizes news articles using NLP techniques.
-
-**Tech Stack**  
-`Python` `NLP` `Transformers` `Scikit-learn`
-
-**Key Features**
-
-- Automatic news summarization  
-- Sentiment analysis  
-- News credibility scoring  
-- Intelligent article analysis  
-
-🔗 Repository  
-https://github.com/Deep-Mhatre/NewsNudge
-
----
-
-## 🎬 PlexStream — MERN OTT Streaming Platform
-
-**Description**  
-A full-stack OTT streaming platform inspired by modern media services, built with the MERN stack.
-
-**Tech Stack**  
-`MongoDB` `Express.js` `React.js` `Node.js` `AWS`
-
-**Key Features**
-
-- Secure authentication system  
-- REST API based backend  
-- Video streaming with React player  
-- Responsive UI and scalable architecture  
-
-🔗 Repository  
-https://github.com/Deep-Mhatre/PlexStream
+🔗 [Repository](https://github.com/Deep-Mhatre/AetherAI)
 
 ---
 
@@ -214,13 +224,17 @@ https://github.com/Deep-Mhatre/PlexStream
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
+<a href="https://deep-portfolio-eight.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" width="50"/>
+</a>
+
 </p>
 
 ---
 
 # ⚡ Fun Fact
 
-I enjoy building **AI systems that combine machine learning, data engineering, and scalable software architecture**.
+I enjoy building **data-driven systems that combine analytics, AI, and scalable software architecture** to solve real business problems.
 
 ---
 
